@@ -1,0 +1,15 @@
+{
+    "emotions": {
+        "Angry": 26,
+        "Disgust": 0,
+        "Fear": 26,
+        "Happy": 130,
+        "Neutral": 409,
+        "Sad": 17,
+        "Surprise": 84
+    },
+    "gender": {
+        "male": 566,
+        "female": 126
+    }
+}
